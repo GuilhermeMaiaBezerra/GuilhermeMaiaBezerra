@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Guilherme Maia Bezerra, tenho 22 anos sou de Manauas/AM. Concluí o curso técnico em informática pelo CETAM. Atualmente, 
+Me chamo Guilherme Maia Bezerra, tenho 22 anos sou de Manaus/AM. Concluí o curso técnico em informática pelo CETAM. Atualmente, 
 estou cursando Sistema de Informação na FAMETRO. Sempre preferi resolver problemas do que reclamar deles. Essa é a minha vocação
 para tecnologia desde os 16 anos de idade, onde criei um amor por essa área onde sempre me faz querer ir além e ser desafiado.
 
